@@ -1,6 +1,6 @@
 # RealTime-Chat
 This is an improved version of my live chat project that I have in the repository, but using event sourcing and web socket technologies
-#Project   
+# Project   
 The project implements chat behavior on different technologies.  
 In the service of the event resource, this is an anonymous chat to which you can get only knowing the link to it.  
 With the help of a web socket, a mechanism is implemented that allows you to communicate under the name that the user enters
