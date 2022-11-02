@@ -42,6 +42,7 @@ input{
             inset 22px -22px 44px #242340;
   color:white;
   font-size: 24px;
+  padding-left: 15px;
 }
 input:focus{
   border-color: red;
@@ -91,4 +92,18 @@ button:active{
   box-shadow: inset 22px -22px 44px #141322,
               inset -22px 22px 44px #242340;
  
+}
+
+.user{
+  height: 30px;
+  padding: 20px;
+  margin-top: 20px;
+  color:white;
+  font-size: 27px;
+  font-weight: 500;
+  border-radius: 16px;
+  background: linear-gradient(225deg, #25243d, #201f33);
+  box-shadow:  -22px 22px 44px #191828,
+             22px -22px 44px #2e2c4a;
+
 }
