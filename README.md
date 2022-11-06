@@ -15,4 +15,4 @@ Example demonstrates the work simultaneously from two different browser tabs
   
     
     
-  <img src="https://github.com/Sentry11/media/raw/main/chat.png" height="550"/>
+  <img src="https://github.com/Sentry11/media/raw/main/chat.png" height="250"/>
