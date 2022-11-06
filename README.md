@@ -11,5 +11,8 @@ In the json file in the server directory, change the startup script to the desir
 Also in the directory on the client in the App file, select the same technology as on the server.  
 First you need to start the server with the npm start command and then the client  
 # If you did everything right, you should see the following    
-Example demonstrates the work simultaneously from two different browser tabs
-  <img src="https://github.com/Sentry11/media/raw/main/chat.png" height="350" width = "full"/>
+Example demonstrates the work simultaneously from two different browser tabs  
+  
+    
+    
+  <img src="https://github.com/Sentry11/media/raw/main/chat.png" height="550"/>
