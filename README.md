@@ -9,4 +9,6 @@ To deploy the project on your computer, you need to copy or download it.
 Install required dependencies using npm commands. The next step is to touch up the script to be executed on the server.  
 In the json file in the server directory, change the startup script to the desired technology (websocket or event resource).   
 Also in the directory on the client in the App file, select the same technology as on the server.  
-First you need to start the server with the npm start command and then the client
+First you need to start the server with the npm start command and then the client  
+# If you did everything right, you should see the following  
+  <img src="https://github.com/Sentry11/media/raw/main/chat.png" height="450"/>
