@@ -5,7 +5,6 @@ const EventSourceComponent = () => {
     const [messages, setMessages] = useState([]);
     const [value, setValue] = useState('');
 
-
     useEffect(() => {
         subscribe()
     }, [])
