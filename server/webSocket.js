@@ -1,5 +1,4 @@
 const ws = require('ws')
-
 const wss = new ws.Server({
     port:5000,
 }, () => console.log(`server started on 5000 port`))
@@ -18,14 +17,12 @@ wss.on('connection', function connection(ws) {
         }
     })
 })
-
-
 const message = {
     event:'message/connection',
-    id:123,
-    date: '21.01.2021',
-    username: 'Sas',
-    message:'some mesage'
+    id:1,
+    date: '24.03.2022',
+    username: 'Sentry',
+    message:'some message'
 }
 
 function broadcastMessage(message){
